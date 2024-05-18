@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(245, 207, 219);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(83, 158, 133);
+}
+
+.nav_bar {
+    background-color: rgb(183, 97, 140);
+    color:rgb(243, 168, 232);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.row {
+
+}
+
+.col-4 {
+
+}
+
+.col-8 {
+    color:rgb(109, 109, 203);
+}
+
+.col-3.nav_logo {
+    background-image: url(../UwU-website/image/icon.jpg);
+    background-size: 100%;
+    width: 45px; 
+    height: 45px; 
+    background-repeat: no-repeat;
+    border: 2px solid #ffdef5;
+}
+
+.col-9 {
+
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.img_size {
+
+}
+
+.title_photo {
+    text-align: center;
+}
+
+.my_photo {
+    background-image: url(../UwU-website/image/boykisser.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 300px; height: 300px;
+}
+
