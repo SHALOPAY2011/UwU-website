@@ -61,3 +61,16 @@ body {
     width: 300px; height: 300px;
 }
 
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    background-color:rgba(100, 100, 204, 0.717);
+    border-radius: 5px;
+}
+
+#demo img {
+    margin-top: 20px ;
+    width: 10%;
+}
